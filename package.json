@@ -8,7 +8,7 @@
     "setup": "node setup-db.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Choquinn",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^17.2.0",
